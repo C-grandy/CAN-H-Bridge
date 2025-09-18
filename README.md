@@ -27,11 +27,9 @@ Back:
 <img width="1122" height="837" alt="image" src="https://github.com/user-attachments/assets/f04818c4-fed0-4295-a268-e7cc8fee3d25" />
 
 
-###3D Render: 
+### 3D Render: 
 
-Front:
-<img width="908" height="673" alt="image" src="https://github.com/user-attachments/assets/75525626-e85d-40a3-a31c-ace5874e4ef0" />
+Front:<img width="908" height="673" alt="image" src="https://github.com/user-attachments/assets/75525626-e85d-40a3-a31c-ace5874e4ef0" />
 
-Back:
-<img width="905" height="675" alt="image" src="https://github.com/user-attachments/assets/233562f9-b6a5-40b4-85c7-96b5f2c7722d" />
+Back:<img width="905" height="675" alt="image" src="https://github.com/user-attachments/assets/233562f9-b6a5-40b4-85c7-96b5f2c7722d" />
 
