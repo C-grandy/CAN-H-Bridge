@@ -19,6 +19,7 @@ The code included is a Arduino test file, it takes data in from CAN and then out
 
 ## PCB Layout:
 This board is a 2 layer stackup, with very basic PCB design rules followed. The overall design of the PCB is lacking, the traces are not properly sized for the loads at hand and a lack of copper pours makes this a elementary design. Even with these shortcomings, the PCB works as expected, but in long tests proved it needed refinement. 
+
 Front: 
 <img width="1120" height="837" alt="image" src="https://github.com/user-attachments/assets/f2f03ba2-187a-42fc-a282-feedb09f715e" />
 
@@ -26,9 +27,11 @@ Back:
 <img width="1122" height="837" alt="image" src="https://github.com/user-attachments/assets/f04818c4-fed0-4295-a268-e7cc8fee3d25" />
 
 
-3D Render: 
+###3D Render: 
+
 Front:
 <img width="908" height="673" alt="image" src="https://github.com/user-attachments/assets/75525626-e85d-40a3-a31c-ace5874e4ef0" />
 
 Back:
 <img width="905" height="675" alt="image" src="https://github.com/user-attachments/assets/233562f9-b6a5-40b4-85c7-96b5f2c7722d" />
+
