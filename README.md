@@ -14,8 +14,7 @@ NOTE: This circuit uses a external 12V refrence for the IRS2104 input voltage, d
 <img width="1045" height="789" alt="image" src="https://github.com/user-attachments/assets/d007af47-5162-4633-8137-d8d421a9915b" />
 
 
-## Included Code:
-The code included is a Arduino test file, it takes data in from CAN and then outputs a -127 - 127 value  to the driver circuit. It is a basic test of the boards features, but in reality is not well implemented. Plans for a bare metal C driver were made, but the design intentions for this PCB were changed and rendered not needed. 
+
 
 ## PCB Layout:
 This board is a 2 layer stackup, with very basic PCB design rules followed. The overall design of the PCB is lacking, the traces are not properly sized for the loads at hand and a lack of copper pours makes this a elementary design. Even with these shortcomings, the PCB works as expected, but in long tests proved it needed refinement. 
